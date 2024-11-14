@@ -1,4 +1,3 @@
-Validating initData from miniapps is not as difficult as getting a girlfriend
 
 Just copy the source code in this repository into the source.py file
 
@@ -23,4 +22,4 @@ else:
     
 ```
 
-Don't forget to drink mineral water, because your work requires high focus:)
+enjoy!
